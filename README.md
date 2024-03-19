@@ -80,6 +80,9 @@ Or to [Netlify](https://www.netlify.com/):
 
 [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2Fflotiq%2Fflotiq-nextjs-event-2)
 
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/mniemcewicz/flotiq-nextjs-event-2)
+
 ## Learning Next.js
 
 Looking for more guidance? Full documentation for Next.js lives [on the website](https://nextjs.org/). Here are some places to start:
