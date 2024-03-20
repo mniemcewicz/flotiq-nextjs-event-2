@@ -15,5 +15,6 @@ jobs:
           packageManager: yarn
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
+        env:
           FLOTIQ_API_KEY: ${{ secrets.FLOTIQ_API_KEY }}
           FLOTIQ_API_URL: ${{ secrets.FLOTIQ_API_URL }}
